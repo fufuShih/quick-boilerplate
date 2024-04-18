@@ -1,7 +1,8 @@
 {
   "name": "quick-boilerplate",
-  "version": "1.0.1",
+  "version": "1.0.5",
   "description": "",
+  "type": "module",
   "main": "index.js",
   "bin": {
     "create-project": "./index.js"
